@@ -6,7 +6,7 @@ Checks worpress sites for version number and finds a list of authors
 lxml
 
 # Usage
-`python http://yoururl.com/blog/`
+`python wp.py http://yoururl.com/blog/`
 
 # Copyright
 Copyright 2012 Aaron Hampton
